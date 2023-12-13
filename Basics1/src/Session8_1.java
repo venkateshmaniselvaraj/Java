@@ -15,14 +15,29 @@ public class Session8_1 {
 
         //take an input from user.  //6
 
+
+        // get an input number of rows : 6 - 1 for loop
+        // *
+        // *
+        // *
+        // *
+        // *
+        // *
+
+        // get an input number of rows : 5  - two for loops nested
+        // * * * * *
+        // * * * * *
+        // * * * * *
+        // * * * * *
+        // * * * * *
+
         //Print
-        //1 2 3 4 5 6
-        //1 2 3 4 5
+        //1 2 3 4 5 6     - * * * * * *
+        //1 2 3 4 5       - * * * * *
         //1 2 3 4
         //1 2 3
         //1 2
         //1
-
 
 
         System.out.println("Enter a number to print a number triangle :");
